@@ -1,0 +1,1 @@
+{"algorithm":"Ed25519","keyId":"catalog-production-operational-01","signature":"rtCB6v2i_EmbfdGbEp2-OwYro4o5F_Yn8-eI-KQgP6R1HGK0_a4NP_7_7HaVI9pj5ksfJby9REgG4v4ehcEsDQ"}

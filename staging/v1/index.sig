@@ -1,0 +1,1 @@
+{"algorithm":"Ed25519","keyId":"catalog-staging-operational-01","signature":"KyM-ufW1jX33B8eHuTk5OS1_0hui0HYaoWFsTUF87pv82n240t3Y0LZhUrIUiri2fLYkTLEKN4MZOK3QWpyEBg"}
