@@ -6,3 +6,5 @@ production/**/*.json -text
 production/**/*.sig  -text
 staging/v1/**/*.json -text
 staging/v1/**/*.sig  -text
+production/**/*.webp -text
+staging/v1/**/*.webp -text
