@@ -1,0 +1,8 @@
+# Artefatos assinados: os bytes sao normativos.
+# Uma conversao de fim de linha no checkout muda esses bytes e invalida a
+# assinatura Ed25519 e o manifestSha256. Escopo restrito de proposito --
+# nada de "*.json -text" global.
+production/**/*.json -text
+production/**/*.sig  -text
+staging/v1/**/*.json -text
+staging/v1/**/*.sig  -text
