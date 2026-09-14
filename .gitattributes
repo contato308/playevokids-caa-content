@@ -8,3 +8,5 @@ staging/v1/**/*.json -text
 staging/v1/**/*.sig  -text
 production/**/*.webp -text
 staging/v1/**/*.webp -text
+production/**/*.sig linguist-detectable=false
+staging/v1/**/*.sig linguist-detectable=false
